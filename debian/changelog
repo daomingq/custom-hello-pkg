@@ -1,3 +1,9 @@
+hello (2.10-3build1custom1) noble; urgency=medium
+
+  * Add echo cmd and testing.sh for Ubuntu take home test
+
+ -- qdaoming-t14 <daomingq@qdaoming-t14.localdomain>  Wed, 14 Jan 2026 23:43:20 +0800
+
 hello (2.10-3build1) noble; urgency=high
 
   * No change rebuild for 64-bit time_t and frame pointers.
