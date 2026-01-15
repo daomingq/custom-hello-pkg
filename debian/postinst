@@ -1,0 +1,12 @@
+#!/bin/sh
+# postinst script for hello
+#
+
+set -e
+
+# Print message during installation
+if [ "$1" = "configure" ]; then
+    echo "this is a test from Daoming Qiu"
+fi
+
+exit 0
